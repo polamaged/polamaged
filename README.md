@@ -1,6 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+My name is pola  
+
+- 🌱 I’m currently learning a Flutter Mobile app developer 
 
 <!--
 **polamaged/polamaged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
